@@ -1,4 +1,4 @@
-id,nest,samplingDateTime,temperature,humidityPercentage,energy,x,y,z,isTesting,recordNumber,day
+id,nest,samplingDateTime,Temp,humidityPercentage,Energy,X,Y,Z,isTesting,recordNumber,day
 0,TS-NA0003,2024-10-03 22:50:20.375602,15.78125,0,297605.0,737.0,350.0,65043.0,False,1,0.698310185185
 1,TS-NA0003,2024-10-03 22:50:20.375602,15.7421875,0,278375.0,743.0,345.0,65040.0,False,2,0.702476851852
 2,TS-NA0003,2024-10-03 22:50:20.375602,15.78125,0,271980.0,743.0,345.0,65041.0,False,3,0.706643518519
